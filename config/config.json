@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "root",
+    "password": "R1ck&M0rtyGaga",
+    "database": "diegopos_db",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "R1ck&M0rtyGaga",
+    "database": "diegopos_db",
+    "host": "localhost",
+    "dialect": "mysql",
+    "logging": false
+  },
+  "production": {
+    "username": "root",
+    "password": "R1ck&M0rtyGaga",
+    "database": "diegopos_db",
+    "host": "localhost",
+    "use_env_variable": "InnoDB",
+    "dialect": "mysql"
+  }
+}
